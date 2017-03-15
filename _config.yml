@@ -1,2 +1,3 @@
 name: Southwest Riverside Python Users Group
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
